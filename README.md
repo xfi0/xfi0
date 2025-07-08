@@ -1,4 +1,4 @@
-**<h3 align="center">✨ Dominic (xfi0) ✨</h3>
+<h3 align="center">✨ Dominic (xfi0) ✨</h3>
 
 <p align="center">
   <strong>🚀 C# Developer | Game Modder | Web Developer</strong>
