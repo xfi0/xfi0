@@ -1,15 +1,18 @@
-<h3 align="center">✨ Dominic (xfi0) ✨</h3> <p align="center"> <strong>🚀 C# Developer | Game Modder | Web Developer</strong> </p>
-Hi there! I'm Dom, a developer passionate about:
+<h3 align="center">✨ Dominic (xfi0) ✨</h3>
 
-🎮 C# Game Modding (Tools, open source uils(coming soon) and more!)
+<p align="center">
+  <strong>🚀 C# Developer | Game Modder | Web Developer</strong>
+</p>
 
-🌐 Web Development (HTML, CSS, and JS)
+<p align="center">─────── ⋆⋅☆⋅⋆ ───────</p>
 
-🔓 Trying to become more open source
+Hi there! I'm **Dom**, a developer passionate about:
+- **🎮 C# Game Modding** (Custom tools, Modding Utils, and More!)
+- **🌐 Web Development** (HTML, CSS, and JS)
+- **🔓 Open-Source Collaborations**
 
-🔧 Currently working on: Game mods, utilities, and small web projects.
-📫 Reach me at:
+🔧 **Currently working on:** Game mods, utilites, and small web projects.
 
-Discord: domok
-
-Community: <a href="https://discord.gg/SXV8Bmy4Tt" target="_blank">Join my Discord</a>
+📫 **Reach me:**
+- Discord: **domok**
+- Community: [Join my Discord](https://discord.gg/SXV8Bmy4Tt)
