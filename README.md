@@ -14,7 +14,7 @@ Hi there! I'm **Dom**, a developer passionate about:
 🔧 **Currently working on:** Game mods, utilities, and small web projects.
 
 📫 **Reach me:**
-- Discord: **domok**
+- Discord: **domok.**
 - Community: [Join my Discord](https://discord.gg/SXV8Bmy4Tt)
 
 <p align="center">─────── ⋆⋅☆⋅⋆ ───────</p>
