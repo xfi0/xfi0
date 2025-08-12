@@ -30,5 +30,5 @@ Hi there! I'm **Dom**, a developer passionate about:
 </a>
 
 <a href="https://github.com/xfi0/WatchTemplate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xfi0&repo=WatchTemplate&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xfi0&repo=GuiTemp&theme=dark" />
 </a>
