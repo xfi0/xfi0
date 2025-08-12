@@ -29,6 +29,6 @@ Hi there! I'm **Dom**, a developer passionate about:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xfi0&repo=Titled-Gui-CS2&theme=dark" />
 </a>
 
-<a href="https://github.com/xfi0/WatchTemplate">
+<a href="https://github.com/xfi0/GuiTemp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xfi0&repo=GuiTemp&theme=dark" />
 </a>
