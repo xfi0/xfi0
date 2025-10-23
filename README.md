@@ -7,7 +7,7 @@
 <p align="center">─────── ⋆⋅☆⋅⋆ ───────</p>
 
 Hi there! I'm **Dom**, a developer passionate about:
-- **🎮 C# Developing (Random Projects)
+- **🎮 C# Developing** (Random Projects
 - **🌐 Web Development** (HTML, CSS, and JS)
 - **🔓 Open-Source Collaborations**
 
