@@ -1,24 +1,22 @@
-<h3 align="center">✨ Dominic (xfi0) ✨</h3>
+<h3 align="center">✨ Dominic ✨</h3>
 
 <p align="center">
-  <strong>🚀 C# Developer | Web Developer</strong>
+  <strong>C# Developer | Web Developer | C++ Developer</strong>
 </p>
 
-<p align="center">─────── ⋆⋅☆⋅⋆ ───────</p>
 
-Hi there! I'm **Dom**, a developer passionate about:
-- **🎮 C# Developing** (Random Projects
-- **🌐 Web Development** (HTML, CSS, and JS)
-- **🔓 Open-Source Collaborations**
+Hi there! I'm **Dom**, a developer with experience in:
+- ** C# Game Development and Projects
+- ** Web Development Making Static Sites And Realtime Services
+- ** C++ Projects
 
-🔧 **Currently working on:** Web projects, CS2 GUI, And more.
+**Currently working on:** Learning More C++.
 
-📫 **Reach me:**
+**Reach me:**
 - Discord: **domok.**
   
-<p align="center">─────── ⋆⋅☆⋅⋆ ───────</p>
 
-## 🔥 Featured Projects
+## Featured Projects
 
 <a href="https://github.com/xfi0/Titled">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xfi0&repo=Titled&theme=dark" />
