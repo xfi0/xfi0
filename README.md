@@ -29,5 +29,6 @@ Hi there! I'm **Dom**, a developer with experience in:
 <a href="https://github.com/xfi0/GuiTemp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xfi0&repo=GuiTemp&theme=dark" />
 </a>
-
-![xfi0's GitHub stats](https://github-readme-stats.vercel.app/api?username=xfi0&show_icons=true&theme=dark)
+<a href="https://github-readme-stats.vercel.app/api?username=xfi0&show_icons=true&theme=dark">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=xfi0&show_icons=true&theme=dark"/>
+</a>
