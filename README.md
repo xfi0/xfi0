@@ -30,5 +30,5 @@ Hi there! I'm **Dom**, a developer with experience in:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xfi0&repo=GuiTemp&theme=dark" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api?username=xfi0&show_icons=true&theme=dark">
-<img align="center" width="80%" height="80%" src="https://github-readme-stats.vercel.app/api?username=xfi0&show_icons=true&theme=dark"/>
+<img align="center" width="200px" height="200px" src="https://github-readme-stats.vercel.app/api?username=xfi0&show_icons=true&theme=dark"/>
 </a>
