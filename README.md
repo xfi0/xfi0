@@ -1,4 +1,4 @@
-<h3 align="center">✨ Dominic ✨</h3>
+<h3 align="center"> Dominic </h3>
 
 <p align="center">
   <strong>C# Developer | Web Developer | C++ Developer</strong>
