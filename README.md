@@ -6,9 +6,9 @@
 
 
 Hi there! I'm **Dom**, a developer with experience in:
-- **C# Projects
-- ** Web Development Making Static Sites And Realtime Services
-- ** C++ Projects
+- **C# Projects**
+- **Web Development Making Static Sites And Realtime Services**
+- **C++ Projects**
 
 **Currently working on:** Learning More C++.
 
