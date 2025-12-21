@@ -6,7 +6,7 @@
 
 
 Hi there! I'm **Dom**, a developer with experience in:
-- ** C# Game Development and Projects
+- **C# Projects
 - ** Web Development Making Static Sites And Realtime Services
 - ** C++ Projects
 
