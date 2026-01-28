@@ -1,16 +1,16 @@
-<h3 align="center"> Dominic </h3>
+<h3 align="center"> Dominic / xfi0</h3>
 
 <p align="center">
   <strong>C# Developer | Web Developer | C++ Developer</strong>
 </p>
 
 
-Hi there! I'm **Dom**, a developer with experience in:
+Hi there! I'm **Dom / xfi0**, I am a developer with experience in:
 - **C# Projects**
-- **Web Development Making Static Sites And Realtime Services**
+- **Web Development Backend And Front End**
 - **C++ Projects**
 
-**Currently working on:** Learning More C++.
+**Currently working on:** Web Projects.
 
 **Reach me:**
 - Discord: **domok.**
@@ -19,7 +19,7 @@ Hi there! I'm **Dom**, a developer with experience in:
 ## Featured Projects
 
 <a href="https://github.com/xfi0/Titled">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xfi0&repo=Titled&theme=dark" />
+  <img style="width:400px; height:200px;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xfi0&repo=Titled&theme=dark" />
 </a>
 
 <a href="https://github.com/xfi0/Titled-Gui-CS2">
